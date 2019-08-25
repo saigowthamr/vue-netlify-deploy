@@ -1,4 +1,4 @@
-# vue-net
+# vue-netlify-deploy
 
 ## Project setup
 ```
